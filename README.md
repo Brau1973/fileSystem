@@ -1,4 +1,4 @@
-# fileSystem (2019)
+# file System (2019)
 Console App that emulates the Linux file System. It works using a relative or absolute path.
 It was my second development project at the university (2019), developed with C/C++.
 
